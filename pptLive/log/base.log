@@ -1,0 +1,44 @@
+2017-07-25 16:15:09,854 INFO (StartupInfoLogger.java:48)- Starting PptLiveApplication on YOUXUE034 with PID 4084 (D:\lxw\wrok\pptLive\target\classes started by lxw in D:\lxw\wrok\pptLive)
+2017-07-25 16:15:09,856 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-25 16:15:09,857 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-25 16:15:14,622 INFO (StartupInfoLogger.java:57)- Started PptLiveApplication in 5.136 seconds (JVM running for 5.773)
+2017-07-25 16:16:08,940 INFO (StartupInfoLogger.java:48)- Starting PptLiveApplication on YOUXUE034 with PID 5540 (D:\lxw\wrok\pptLive\target\classes started by lxw in D:\lxw\wrok\pptLive)
+2017-07-25 16:16:08,942 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-25 16:16:08,942 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-25 16:16:12,501 INFO (StartupInfoLogger.java:57)- Started PptLiveApplication in 3.841 seconds (JVM running for 4.335)
+2017-07-25 16:16:45,504 INFO (StartupInfoLogger.java:48)- Starting PptLiveApplication on YOUXUE034 with PID 2696 (D:\lxw\wrok\pptLive\target\classes started by lxw in D:\lxw\wrok\pptLive)
+2017-07-25 16:16:45,506 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-25 16:16:45,506 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-25 16:16:49,107 INFO (StartupInfoLogger.java:57)- Started PptLiveApplication in 3.842 seconds (JVM running for 4.362)
+2017-07-25 16:31:34,924 INFO (StartupInfoLogger.java:48)- Starting PptLiveApplication on YOUXUE034 with PID 636 (D:\lxw\wrok\pptLive\target\classes started by lxw in D:\lxw\wrok\pptLive)
+2017-07-25 16:31:34,926 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-25 16:31:34,927 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-25 16:31:38,578 INFO (StartupInfoLogger.java:57)- Started PptLiveApplication in 3.931 seconds (JVM running for 4.482)
+2017-07-25 16:33:36,842 INFO (StartupInfoLogger.java:48)- Starting PptLiveApplication on YOUXUE034 with PID 2940 (D:\lxw\wrok\pptLive\target\classes started by lxw in D:\lxw\wrok\pptLive)
+2017-07-25 16:33:36,846 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-25 16:33:36,846 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-25 16:33:40,482 INFO (StartupInfoLogger.java:57)- Started PptLiveApplication in 3.91 seconds (JVM running for 4.404)
+2017-07-25 16:34:14,798 INFO (StartupInfoLogger.java:48)- Starting PptLiveApplication on YOUXUE034 with PID 3276 (D:\lxw\wrok\pptLive\target\classes started by lxw in D:\lxw\wrok\pptLive)
+2017-07-25 16:34:14,800 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-25 16:34:14,801 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-25 16:34:18,491 INFO (StartupInfoLogger.java:57)- Started PptLiveApplication in 3.956 seconds (JVM running for 4.438)
+2017-07-25 16:35:14,373 INFO (StartupInfoLogger.java:48)- Starting PptLiveApplication on YOUXUE034 with PID 5720 (D:\lxw\wrok\pptLive\target\classes started by lxw in D:\lxw\wrok\pptLive)
+2017-07-25 16:35:14,375 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-25 16:35:14,375 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-25 16:35:18,009 INFO (StartupInfoLogger.java:57)- Started PptLiveApplication in 3.893 seconds (JVM running for 4.369)
+2017-07-25 16:35:59,438 INFO (StartupInfoLogger.java:48)- Starting PptLiveApplication on YOUXUE034 with PID 3964 (D:\lxw\wrok\pptLive\target\classes started by lxw in D:\lxw\wrok\pptLive)
+2017-07-25 16:35:59,440 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-25 16:35:59,440 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-25 16:36:03,080 INFO (StartupInfoLogger.java:57)- Started PptLiveApplication in 3.955 seconds (JVM running for 4.39)
+2017-07-25 16:37:40,027 INFO (StartupInfoLogger.java:48)- Starting PptLiveApplication on YOUXUE034 with PID 2296 (D:\lxw\wrok\pptLive\target\classes started by lxw in D:\lxw\wrok\pptLive)
+2017-07-25 16:37:40,031 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-25 16:37:40,031 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-25 16:37:43,745 INFO (StartupInfoLogger.java:57)- Started PptLiveApplication in 3.994 seconds (JVM running for 4.483)
+2017-07-25 16:38:46,020 INFO (StartupInfoLogger.java:48)- Starting PptLiveApplication on YOUXUE034 with PID 5100 (D:\lxw\wrok\pptLive\target\classes started by lxw in D:\lxw\wrok\pptLive)
+2017-07-25 16:38:46,021 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-25 16:38:46,021 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-25 16:38:49,586 INFO (StartupInfoLogger.java:57)- Started PptLiveApplication in 3.845 seconds (JVM running for 4.359)
+2017-07-25 16:40:47,227 INFO (StartupInfoLogger.java:48)- Starting PptLiveApplication on YOUXUE034 with PID 5624 (D:\lxw\wrok\pptLive\target\classes started by lxw in D:\lxw\wrok\pptLive)
+2017-07-25 16:40:47,228 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+2017-07-25 16:40:47,228 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-25 16:40:50,836 INFO (StartupInfoLogger.java:57)- Started PptLiveApplication in 3.874 seconds (JVM running for 4.352)
